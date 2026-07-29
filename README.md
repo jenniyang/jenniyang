@@ -50,7 +50,7 @@
 ### 📬 Connect With Me
 📫 Email: **jen-yang@berkeley.edu**  
 🔗 LinkedIn: **https://www.linkedin.com/in/jennifer-yang-6569832a2/**  
-🌐 Portfolio: *coming soon — stay tuned!*  
+🌐 Portfolio: *coming soon!*  
 
 ---
 
