@@ -10,7 +10,7 @@
 ### 🌸 What I’m About
 - 🧬 Turning neuroscience ideas into real tech  
 - 🤝 Designing tools that help people learn + live better  
-- 🎨 Creatively curious (yes, that includes 📸)
+- 🎨 Creatively curious
 
 ### 🔬 Current Experiments
 - 📊 Research projects in cognition & perception  
