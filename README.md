@@ -36,14 +36,13 @@
 ![Arduino](https://img.shields.io/badge/Arduino-A0E7E5?style=for-the-badge&logo=arduino&logoColor=4A4A4A)
 ![Git](https://img.shields.io/badge/Git-FF9CEE?style=for-the-badge&logo=git&logoColor=white)
 
-> Currently obsessed with: **ML**, **computer vision**, **assistive tech** 💡
+> Currently interested in: **ML**, **computer vision**, **assistive tech** 💡
 
 ---
 
-### 🌷 Fun Facts
-- Low-key obsessed with **child development + neural learning**
-- Best debugging tool = **iced matcha 🍵**
-- I believe tech should feel ✨human✨ (and maybe a little brainrot sometimes...)
+### 🚀 Hackathon Projects
+- Touch Grass 🌱 — AI agent to interrupt compulsive phone use (built at Cal Hacks AI Hackathon 2026) [View Repository →](https://github.com/seven-ai-h/agent-touch_grass)
+- LockedIn 🤓 — Social productivity app for college students, mobile MVP (built at Cal Hacks 12.0 2025) [View Repository →](https://github.com/seven-ai-h/LockedIn)
 
 ---
 
