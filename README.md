@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>I like building things that think.</em><br>
-  UC Berkeley — Computer Science + Cognitive Science 💻🧠
+  UC Berkeley — Cognitive Science + Computer Science + Data Science 💻🧠
 </p>
 
 ---
